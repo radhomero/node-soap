@@ -1,6 +1,6 @@
 {
   "name": "soap",
-  "version": "0.17.0",
+  "version": "0.17.1a",
   "description": "A minimal node SOAP client",
   "engines": {
     "node": ">=0.10.0"
@@ -12,6 +12,7 @@
     "debug": "~0.7.4",
     "ejs": "~2.3.4",
     "lodash": "3.x.x",
+    "moment": "^2.15.1",
     "node-uuid": "~1.4.3",
     "optional": "^0.1.3",
     "request": ">=2.9.0",

@@ -1,3 +1,8 @@
+0.17.1a / 2016-10-20
+=================
+
+* [ENHANCEMENT] If Date or Integer WSDL field type fails to parse then String value is given
+
 0.17.0 / 2016-06-23
 =================
 
